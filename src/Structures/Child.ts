@@ -35,6 +35,8 @@ export class Child {
             cmd: ["bun", "run", this.file, ...this.args],
             env: stringEnv,
             cwd: this.options.cwd,
+            stdout: "inherit",
+            stderr: "inherit",
             ipc: (message) => {
                 this._onMessage(message);
             },
