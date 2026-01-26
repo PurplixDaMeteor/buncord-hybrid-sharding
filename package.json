@@ -1,6 +1,6 @@
 {
     "name": "buncord-hybrid-sharding",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Enterprise Bun-native sharding manager for Discord bots, featuring Redis heartbeats, rolling restarts, and integrated monitoring.",
     "main": "./src/index.ts",
     "types": "./src/index.ts",
