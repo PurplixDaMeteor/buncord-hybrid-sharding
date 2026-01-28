@@ -1,6 +1,4 @@
-[![PayPal](https://img.shields.io/badge/💖-Support-ff69b4)](https://paypal.me/l0g4n7)
-[![npm](https://img.shields.io/npm/v/buncord-hybrid-sharding?style=flat-square)](https://www.npmjs.com/package/buncord-hybrid-sharding)
-![Github Stars](https://img.shields.io/github/stars/LuigiColantuono/buncord-hybrid-sharding?style=flat-square)
+<p align="center"><a href="https://paypal.me/l0g4n7"><img src="https://img.shields.io/badge/💖-Support-ff69b4"></a> <img src="https://img.shields.io/npm/v/buncord-hybrid-sharding"> <img src="https://img.shields.io/npm/dm/buncord-hybrid-sharding?label=downloads"> <img src="https://img.shields.io/npm/l/buncord-hybrid-sharding"> <img src="https://img.shields.io/github/repo-size/LuigiColantuono/buncord-hybrid-sharding"> <a href="https://github.com/LuigiColantuono/buncord-hybrid-sharding"><img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun"></a></p>
 
 <p align="center">
 <img width="400" height="211" alt="buncord hybrid sharding logo" src="https://github.com/user-attachments/assets/12a46f1a-3901-4682-b9a9-b5f75768c607" />
