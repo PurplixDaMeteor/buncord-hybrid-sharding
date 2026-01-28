@@ -38,7 +38,7 @@ export class ClusterHandler {
                     return this.ipc.send({
                         nonce: message.nonce,
                         _type: messageType.CLIENT_BROADCAST_RESPONSE,
-                        _error: makePlainError(err),
+                        _error: makePlainError(err as Error),
                     });
                 });
             return;
@@ -49,7 +49,7 @@ export class ClusterHandler {
                     return this.ipc.send({
                         nonce: message.nonce,
                         _type: messageType.CLIENT_MANAGER_EVAL_RESPONSE,
-                        _error: makePlainError(result._error),
+                        _error: makePlainError(result._error as Error),
                     });
                 }
                 return this.ipc.send({
@@ -117,7 +117,7 @@ export class ClusterClientHandler<DiscordClient> {
             } catch (err) {
                 this.client._respond('eval', {
                     _eval: message._eval,
-                    _error: makePlainError(err),
+                    _error: makePlainError(err as Error),
                     _type: messageType.CLIENT_EVAL_RESPONSE,
                     nonce: message.nonce,
                 });

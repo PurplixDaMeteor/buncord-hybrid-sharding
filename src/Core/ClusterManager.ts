@@ -463,7 +463,7 @@ export class ClusterManager extends EventEmitter {
         } catch (err) {
             error = err;
         }
-        return { _result: result, _error: error ? makePlainError(error) : null };
+        return { _result: result, _error: error ? makePlainError(error as Error) : null };
     }
 
     /**
