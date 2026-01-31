@@ -8,7 +8,7 @@ export class RedisClient {
         this.client = createClient({
             url,
             socket: {
-                reconnectStrategy: (retries) => {
+                reconnectStrategy: (retries: number) => {
                     return Math.min(retries * 100, 3000);
                 },
             },
@@ -22,7 +22,7 @@ export class RedisClient {
             this.isConnected = true;
         });
 
-        this.client.on('error', (_err) => {
+        this.client.on('error', (_err: Error) => {
             this.isConnected = false;
         });
 
@@ -63,7 +63,7 @@ export class RedisClient {
         const subscriber = this.client.duplicate();
         await subscriber.connect();
 
-        await subscriber.subscribe(channel, (message) => {
+        await subscriber.subscribe(channel, (message: string) => {
             callback(JSON.parse(message));
         });
     }
